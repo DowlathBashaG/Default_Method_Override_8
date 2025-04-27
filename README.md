@@ -1,4 +1,4 @@
-# Default_Method_Override_8
+# Default_Method_Override_Java 8
 
 
 Two different default methods in two different interfaces . how to implement in java 8? give the example?
